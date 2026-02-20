@@ -15,3 +15,5 @@ PolyTrade Terminal - это AI-ориентированный терминал �
 
 ## Ограничение доступа
 Исходный core-код не публикуется полностью на этой стадии разработки.
+![DOM Order Book](media/dom-order-book.png)
+![Charts View](media/charts-view.png)

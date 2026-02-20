@@ -15,3 +15,5 @@ PolyTrade Terminal is an AI-oriented terminal for prediction market analysis wit
 
 ## Access Scope
 Full core source code is not publicly exposed at this development stage.
+![DOM Order Book](media/dom-order-book.png)
+![Charts View](media/charts-view.png)
