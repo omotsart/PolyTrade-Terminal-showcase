@@ -1,4 +1,4 @@
-﻿# PolyTrade Terminal Showcase
+﻿# PolyTrade Terminal Showcase Привет!!! 
 
 - Russian: `docs/README_RU.md`
 - English: `docs/README_EN.md`
